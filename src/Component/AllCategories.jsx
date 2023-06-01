@@ -24,7 +24,7 @@ const AllCategories = () => {
                         <div className='FliedBoxIcon'>
                             <div>
                                 <Management />
-                                <p >Facility  Management</p>
+                                <p >Logistic</p>
                             </div>
                         </div>
                     </Col>
@@ -50,7 +50,7 @@ const AllCategories = () => {
                         <div className='FliedBoxIcon'>
                             <div>
                                 <Management />
-                                <p >Facility  Management</p>
+                                <p >Logistic</p>
                             </div>
                         </div>
                     </Col>
@@ -58,7 +58,7 @@ const AllCategories = () => {
                         <div className='FliedBoxIcon'>
                             <div>
                                 <Management />
-                                <p >Facility  Management</p>
+                                <p >Construction</p>
                             </div>
                         </div>
                     </Col>

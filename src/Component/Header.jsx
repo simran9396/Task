@@ -24,7 +24,7 @@ const Header = () => {
                                     <option value="2">Two</option>
                                     <option value="3">Three</option>
                                 </Form.Select>
-                                <Form.Control placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" className=' border-0' />
+                                <Form.Control placeholder="Search" aria-label="Search" aria-describedby="basic-addon1" className=' border-0' />
                                 <div className='search_icon'>
                                     <i className='fa fa-search'></i>
                                 </div>

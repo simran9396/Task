@@ -168,9 +168,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+                                 
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -181,9 +184,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -194,9 +200,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -207,9 +216,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -220,9 +232,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -233,9 +248,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -246,9 +264,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
@@ -259,9 +280,12 @@ function Expoler() {
                                 <Card.Body>
                                     <Card.Title>Card Title</Card.Title>
                                     <Card.Text>
-                                        Some quick example text to build on the card title and make up the
-                                        bulk of the card's content.
+                                    MENS SEIKO KENETIC TITANIUM 100M WRIST WATCH! No Reserve!
+                                    $18.50
+
                                     </Card.Text>
+                                    <span style={{color:'red'}}>6d 13h 52 sec</span>
+
                                     {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>

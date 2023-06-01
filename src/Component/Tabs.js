@@ -12,13 +12,13 @@ function Tabs() {
         </Col>
         <Col md={4}  xs={4}>
             <div className='box_1'>
-                 <h3>Request anything</h3>
+                 <h3>Create Event</h3>
             </div>
         </Col>
           
         <Col md={4}  xs={4}>
             <div className='box_1'>
-                 <h3>Request anything</h3>
+                 <h3>Auction Items</h3>
             </div>
         </Col>
           
